@@ -15,7 +15,7 @@ Whether you're backtesting trading strategies, building predictive models, or co
 ### Key Features
 - **Modular Design**: Static methods for standalone use or instance-based workflows.
 - **Advanced Imputation**: Supports KNN, Markov chains, Kalman filters, and more.
-- **Outlier Handling**: Seven detection methods (Z-score, IQR, CUSUM, etc.) with customizable combination strategies.
+- **Outlier Handling**: Seven detection methods with customizable combination strategies.
 - **Rich Visualizations**: 15+ graph types, from basic histograms to choropleth maps.
 - **Test-Friendly**: Built-in sample dataset for quick prototyping.
 - **Error-Resilient**: Extensive input validation and graceful fallbacks.
