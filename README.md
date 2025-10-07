@@ -371,6 +371,7 @@ Run tests: `pytest tests/`. Lint: `black .`.
 
 ## Acknowledgments
 - Built with love by [QUANT-FINANCE COMMUNITY , NIT ROURKELA].
+- GITHUB : https://github.com/quantcommunitynitrkl
 - Thanks to yfinance AND the open-source community.
 
 For issues or features, open a GitHub issue. Let's make stock analysis accessible!
