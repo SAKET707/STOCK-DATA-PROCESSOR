@@ -370,7 +370,7 @@ Run tests: `pytest tests/`. Lint: `black .`.
 
 
 ## Acknowledgments
-- Built with love by [QUANT-FINANCE COMMUNITY , NIT ROURKELA].
+- Built with love by [QUANT-FINANCE COMMUNITY].
 - GITHUB : https://github.com/quantcommunitynitrkl
 - Thanks to yfinance AND the open-source community.
 
